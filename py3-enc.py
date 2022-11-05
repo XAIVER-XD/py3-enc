@@ -1,5 +1,5 @@
 import os, platform
- os.system('xdg-open https://www.facebook.com/100011755265711')
+os.system('xdg-open https://www.facebook.com/100011755265711')
 try:
  
         import requests
